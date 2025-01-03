@@ -18,7 +18,7 @@ Este repositorio sirve como prueba de concepto para implementar una documentaci√
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <URL_del_repositorio>
+   git clone [<URL_del_repositorio>](https://github.com/datariders-io/docs)
    ```
 
 2. **Explorar la wiki**:
